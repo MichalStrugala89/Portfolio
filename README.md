@@ -6,7 +6,7 @@ I am young student with many technical skills. I am very motivated to become QA
 * TestLink
 * GitHub
 * Greenshot
-## TECH SKIILS
+## TECH SKILLS
 * Software testing
 * Creating test cases
 * Reporting bugs
